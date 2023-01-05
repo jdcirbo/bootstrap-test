@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.384708"
+   height="14.986354"
+   viewBox="0 0 4.3351206 3.9651394"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="spiral.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="16.206792"
+     inkscape:cx="26.562937"
+     inkscape:cy="13.173489"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.53158887,-0.60779523)">
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       id="path1515"
+       sodipodi:cx="2.3508661"
+       sodipodi:cy="2.7263517"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="2.2241004"
+       sodipodi:argument="-18.7908"
+       sodipodi:t0="0"
+       d="M 2.3508661,2.7263517 C 2.4621865,2.7329 2.3969607,2.8796401 2.3399824,2.9113736 2.1855748,2.9973694 2.0180199,2.8506192 1.9808223,2.7045845 1.9142847,2.4433626 2.1359573,2.2087895 2.383517,2.1712861 2.7468209,2.1162485 3.0563101,2.4213641 3.0909535,2.7698863 3.1371277,3.2344116 2.745827,3.6209072 2.2964479,3.6514611 1.7309501,3.6899099 1.2665873,3.2112585 1.2407349,2.6610499 1.2094242,1.9946736 1.7760243,1.4519998 2.4270516,1.4311987 3.1942647,1.4066853 3.8155101,2.0615809 3.831041,2.8134209 3.8489721,3.6814499 3.105562,4.3814339 2.2529133,4.3915485 1.2840797,4.4030414 0.50524345,3.5709696 0.50064743,2.6175153 0.49549138,1.5478838 1.4163287,0.69011411 2.4705861,0.69111122 3.6410117,0.6922182 4.5777746,1.7018967 4.5711285,2.8569554"
+       transform="translate(0.1632546,0.04897638)" />
+  </g>
+</svg>
